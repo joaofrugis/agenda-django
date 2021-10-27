@@ -18,4 +18,4 @@ def local_evento(request, titulo):
 
 # Redireciona para /agenda
 # def index(request):
-#   return redirect('/agenda/')
+#     return redirect('/agenda/')
